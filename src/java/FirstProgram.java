@@ -1,4 +1,4 @@
-package scr.java;
+package src.java;
 
 public class FirstProgram {
     public static void main(String[] args) {
